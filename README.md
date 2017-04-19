@@ -1,0 +1,2 @@
+# Activerecord gotchas
+
